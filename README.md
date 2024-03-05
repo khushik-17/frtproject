@@ -28,4 +28,17 @@ Languages used:
 (iii) JAVA 
 
 (iv) JavaScript
+
+
+![home](https://github.com/khushik-17/frtproject/assets/161970328/7b55f703-262b-46d4-90d0-e4709487f839)
+
+![about](https://github.com/khushik-17/frtproject/assets/161970328/b2110b23-231b-4985-8107-215d10428389)
+
+![contact](https://github.com/khushik-17/frtproject/assets/161970328/fda2710e-3a46-443c-b04c-e7480917e887)
+
+![end](https://github.com/khushik-17/frtproject/assets/161970328/29e1fb3a-0ed8-4e6f-92ff-9d97427b2954)
+
+
+
+
  
