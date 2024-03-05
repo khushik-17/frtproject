@@ -30,6 +30,14 @@ Languages used:
 (iv) JavaScript
 
 
+https://github.com/khushik-17/frtproject/assets/161970328/f2bd920b-24ee-4126-8b3a-a674d1ee1f67
+
+
+
+
+
+
+
 ![home](https://github.com/khushik-17/frtproject/assets/161970328/7b55f703-262b-46d4-90d0-e4709487f839)
 
 ![about](https://github.com/khushik-17/frtproject/assets/161970328/b2110b23-231b-4985-8107-215d10428389)
